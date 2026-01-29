@@ -1,0 +1,189 @@
+Gender,Age,Starting_Salary,Major,Student_Debt,Graduation_Date,Degree_Level
+Male,25.0,72500.0,Business,27474.32,1/5/2016,PhD
+Female,30.0,62900.0,Psychology,17522.17,13/5/2017,Bachelor's
+Female,35.0,74700.0,Computer Science,46324.11,23/5/2017,PhD
+Male,29.0,87800.0,Psychology,15698.59,19/5/2019,Bachelor's
+Male,16.0,61500.0,Engineering,25599.56,27/6/2019,Associate's
+Female,43.0,61500.0,History,31307.41,24/6/2016,PhD
+Male,22.0,88700.0,History,44412.73,19/5/2020,Master's
+Female,33.0,76500.0,Art,15641.38,17/5/2019,Bachelor's
+Female,41.0,58000.0,Engineering,41631.64,13/6/2020,Bachelor's
+Male,40.0,73100.0,Computer Science,30102.33,16/5/2015,PhD
+Male,38.0,58000.0,Art,20184.91,8/6/2019,Associate's
+Female,39.0,58000.0,Business,34621.03,19/5/2023,PhD
+Male,23.0,68600.0,Art,31990.6,18/5/2016,Associate's
+Female,34.0,36300.0,Nursing,23997.83,1/5/2015,Associate's
+Female,41.0,39100.0,Computer Science,30698.02,14/5/2023,Bachelor's
+Male,40.0,56600.0,Nursing,26146.86,19/5/2023,PhD
+Male,38.0,49800.0,Engineering,31135.17,15/5/2023,PhD
+Female,39.0,69700.0,Biology,36621.31,18/5/2020,Associate's
+Male,24.0,51400.0,Nursing,45860.17,2/6/2022,PhD
+Female,35.0,43800.0,Business,17621.85,22/6/2015,Master's
+Female,40.0,87000.0,Art,51330.33,28/6/2018,Master's
+Male,41.0,61600.0,Biology,10479.12,17/6/2015,PhD
+Male,42.0,66000.0,Art,28482.15,18/6/2022,PhD
+Female,43.0,43600.0,Nursing,35883.17,6/5/2015,Associate's
+Male,29.0,56800.0,Art,32809.92,19/5/2017,Master's
+Female,38.0,66700.0,Engineering,23773.0,4/6/2018,Master's
+Female,44.0,47700.0,Biology,27918.78,1/5/2022,Bachelor's
+Male,42.0,70600.0,Engineering,25069.99,8/6/2020,Associate's
+Male,40.0,56000.0,Nursing,24106.35,23/6/2021,Bachelor's
+Female,41.0,60600.0,Engineering,38496.02,7/5/2022,Master's
+Male,25.0,56000.0,Business,33570.15,3/5/2016,Associate's
+Female,30.0,92800.0,Nursing,23070.9,10/5/2022,PhD
+Female,40.0,64800.0,Nursing,38996.0,10/6/2017,Associate's
+Male,42.0,49100.0,Nursing,33073.0,19/5/2021,PhD
+Male,43.0,77300.0,Computer Science,38128.62,14/6/2017,PhD
+Female,44.0,46700.0,Art,36296.29,2/6/2021,Associate's
+,122.0,68100.0,Computer Science,21710.05,28/6/2016,PhD
+,121.0,35600.0,Computer Science,,1/5/2020,Bachelor's
+,100.0,45100.0,Business,,23/5/2017,Master's
+,100.0,68000.0,Biology,,23/6/2017,PhD
+,100.0,76100.0,Art,,28/5/2023,Bachelor's
+,100.0,67600.0,Engineering,,18/5/2021,PhD
+,3.0,63300.0,History,,7/5/2019,Master's
+,3.0,60500.0,Nursing,,8/6/2021,Bachelor's
+,4.0,42800.0,Engineering,,1/6/2023,Master's
+,2.0,54200.0,Nursing,,25/5/2015,Master's
+Female,,58100.0,Business,27823.19,23/6/2021,Bachelor's
+,122.0,80900.0,Nursing,40987.77,3/5/2020,Bachelor's
+Female,,70200.0,Computer Science,38254.16,24/5/2023,Bachelor's
+,121.0,38600.0,Art,,23/5/2015,Associate's
+Male,2.0,69900.0,History,,27/5/2018,Bachelor's
+Female,,59200.0,Psychology,30210.04,8/6/2023,Bachelor's
+,100.0,54800.0,Nursing,,22/6/2018,Bachelor's
+Female,191.0,74200.0,Engineering,26897.33,25/6/2017,Bachelor's
+Female,,80500.0,Computer Science,33241.66,15/5/2023,PhD
+,100.0,79000.0,Psychology,,5/5/2016,Associate's
+Female,,52400.0,History,30969.96,3/5/2018,Master's
+,100.0,60400.0,Psychology,,19/6/2020,Bachelor's
+Female,,70000.0,Computer Science,21817.79,1/5/2016,PhD
+,100.0,79600.0,Art,,28/6/2022,PhD
+Female,,57800.0,Art,19939.83,15/6/2022,PhD
+Female,,62200.0,Biology,17858.11,8/6/2015,Master's
+Female,,48400.0,Art,41581.11,2/6/2017,Bachelor's
+Female,,47100.0,Biology,37916.63,3/6/2023,Associate's
+,2.0,77200.0,Psychology,,24/6/2019,Associate's
+Female,45.0,85300.0,Business,36283.46,14/5/2020,PhD
+Male,50.0,63900.0,Engineering,29877.53,,Master's
+Male,60.0,80100.0,,21027.46,14/6/2016,Master's
+,122.0,70400.0,Psychology,30758.05,11/6/2022,Master's
+Female,45.0,55300.0,Nursing,23228.38,16/5/2020,Associate's
+Male,50.0,70400.0,Nursing,39751.2,,PhD
+Male,60.0,88100.0,,28529.43,20/6/2023,Bachelor's
+,121.0,64500.0,Engineering,,5/5/2015,Associate's
+Female,45.0,88500.0,Engineering,26786.14,22/6/2019,PhD
+Male,50.0,25700.0,Biology,,,PhD
+Male,60.0,77300.0,,24362.75,14/6/2019,Bachelor's
+,100.0,66300.0,Computer Science,,23/5/2020,Bachelor's
+Female,45.0,60500.0,Nursing,32436.87,16/5/2020,Bachelor's
+Male,50.0,66400.0,Engineering,32449.67,,Master's
+Male,60.0,35200.0,,24930.57,7/6/2018,Bachelor's
+,100.0,61700.0,History,,10/6/2022,PhD
+Female,45.0,70400.0,Biology,32320.5,7/5/2021,Bachelor's
+Male,50.0,87200.0,Nursing,15519.16,,PhD
+Male,60.0,57200.0,,15925.36,23/6/2021,Associate's
+,100.0,52900.0,Biology,,21/6/2017,Master's
+Female,45.0,57500.0,Computer Science,27865.53,19/6/2017,Associate's
+Male,50.0,78700.0,Psychology,33109.08,,Associate's
+Male,60.0,69900.0,,44753.56,19/5/2019,PhD
+,100.0,57100.0,Biology,,4/6/2018,Associate's
+Female,45.0,,Engineering,28400.61,28/5/2022,PhD
+Male,50.0,66500.0,Biology,29809.84,,Bachelor's
+Male,60.0,79500.0,,19974.71,2/5/2016,Bachelor's
+,3.0,54500.0,Psychology,,1/6/2018,PhD
+Female,45.0,60100.0,History,27113.41,15/5/2018,Bachelor's
+Male,50.0,59100.0,Computer Science,33227.19,,Master's
+Male,60.0,43000.0,,21727.69,20/5/2020,Associate's
+,3.0,69400.0,History,,11/6/2015,Master's
+Female,45.0,68900.0,Psychology,45327.39,10/5/2022,Associate's
+Male,50.0,65100.0,Psychology,,,Bachelor's
+Male,60.0,61500.0,,34017.12,3/5/2017,Master's
+,4.0,43800.0,History,,23/5/2023,Bachelor's
+Female,45.0,58700.0,Engineering,,23/6/2016,Associate's
+Male,50.0,59900.0,Psychology,,,PhD
+Male,60.0,53000.0,,30125.92,20/5/2017,PhD
+,2.0,62600.0,History,,5/6/2019,Master's
+Male,60.0,71100.0,,22269.9,5/5/2020,Bachelor's
+Male,60.0,93300.0,,30245.1,6/5/2020,Bachelor's
+Male,60.0,67600.0,,34979.98,9/5/2018,Master's
+Male,60.0,68900.0,,44511.44,2/6/2017,PhD
+Male,60.0,63900.0,,39592.71,21/5/2018,Associate's
+Male,60.0,36200.0,,51531.82,12/5/2015,Master's
+Male,60.0,64600.0,,22326.52,3/6/2018,Associate's
+Male,60.0,65900.0,,38723.21,20/6/2015,PhD
+Male,60.0,101900.0,,31833.42,26/6/2015,Bachelor's
+Male,60.0,62100.0,,51898.03,22/6/2020,PhD
+Female,30.0,69500.0,Nursing,21917.02,12/5/2019,Master's
+Male,50.0,64500.0,Psychology,21602.78,,Bachelor's
+Female,,47500.0,Nursing,24006.07,17/5/2017,Master's
+Male,60.0,82100.0,,8761.04,10/5/2015,Master's
+,122.0,76300.0,Business,24742.45,24/6/2020,PhD
+Male,29.0,76900.0,Computer Science,,27/5/2016,Master's
+Female,30.0,51400.0,Art,31503.94,14/5/2022,PhD
+Male,50.0,86000.0,Engineering,33417.56,,Bachelor's
+Female,,44000.0,Business,48761.71,17/5/2021,PhD
+Male,60.0,73800.0,,39504.24,18/5/2016,Bachelor's
+,121.0,97900.0,Nursing,,19/5/2022,PhD
+Male,2.0,50100.0,Engineering,,17/5/2016,Associate's
+Female,30.0,56500.0,Nursing,,14/5/2018,Associate's
+Male,50.0,66500.0,History,,,Master's
+Female,,57400.0,Nursing,48314.59,8/6/2019,PhD
+Male,60.0,41700.0,,41794.4,2/6/2023,PhD
+,100.0,66000.0,Biology,,13/5/2015,Bachelor's
+Male,29.0,49100.0,Engineering,,25/5/2023,Master's
+Female,30.0,72100.0,Engineering,43538.72,7/6/2022,PhD
+Male,50.0,51200.0,Computer Science,28854.6,,Master's
+Female,,88200.0,Psychology,42378.16,22/5/2021,Associate's
+Male,60.0,53300.0,,14055.72,22/5/2017,PhD
+,100.0,60200.0,Computer Science,,11/6/2015,PhD
+Male,29.0,77200.0,Nursing,,14/5/2019,Master's
+Female,30.0,46500.0,Nursing,30469.81,4/6/2016,PhD
+Male,50.0,68400.0,Computer Science,25499.35,,Master's
+Female,,84600.0,Engineering,36228.5,26/6/2022,PhD
+Male,60.0,40900.0,,19323.8,13/6/2023,Bachelor's
+,100.0,67800.0,Art,,2/5/2016,Master's
+Male,29.0,68900.0,Biology,,23/6/2017,PhD
+Female,30.0,76700.0,Biology,35144.39,5/5/2017,Associate's
+Male,50.0,46400.0,Art,37116.15,,PhD
+Female,,45200.0,Computer Science,18753.58,6/5/2022,Associate's
+Male,60.0,72800.0,,14658.86,18/5/2020,Associate's
+,100.0,69500.0,History,,21/6/2022,Bachelor's
+Male,29.0,68800.0,History,,10/5/2023,Master's
+Female,30.0,70200.0,Computer Science,22515.13,4/5/2019,PhD
+Male,50.0,54800.0,Art,45511.52,,Bachelor's
+Female,,68500.0,History,31156.75,6/5/2019,PhD
+Male,60.0,69400.0,,41792.97,2/5/2019,Associate's
+,3.0,54300.0,Art,,17/6/2019,Master's
+Male,29.0,93000.0,Engineering,,5/6/2017,PhD
+Female,30.0,72100.0,History,47553.41,25/5/2018,PhD
+Male,50.0,47100.0,Biology,27510.36,,Associate's
+Female,,74800.0,History,39715.71,26/6/2023,PhD
+Male,60.0,50400.0,,36453.76,12/6/2016,PhD
+,3.0,76800.0,Business,,23/5/2022,Associate's
+Male,29.0,82400.0,Psychology,,21/6/2022,Bachelor's
+Female,30.0,52700.0,Nursing,,10/5/2021,Associate's
+Male,50.0,79500.0,Art,,,Bachelor's
+Female,,71200.0,Business,12412.61,21/5/2017,Master's
+Male,60.0,77300.0,,18167.41,27/5/2020,Bachelor's
+,4.0,93500.0,Biology,,25/5/2015,Bachelor's
+Male,29.0,61300.0,Computer Science,,6/6/2021,Master's
+Female,30.0,53700.0,History,,27/6/2015,Bachelor's
+Female,45.0,51700.0,Biology,,8/6/2023,Associate's
+Male,50.0,52800.0,Psychology,,,Bachelor's
+Female,,63800.0,History,46286.16,12/5/2015,Master's
+Male,60.0,70100.0,,16198.99,13/5/2021,Associate's
+,2.0,69200.0,Computer Science,,25/5/2016,Master's
+Male,29.0,77400.0,Biology,,21/5/2019,Master's
+Male,50.0,65200.0,Biology,33840.65,,PhD
+Male,50.0,86800.0,Biology,29673.05,,PhD
+Male,50.0,61000.0,Psychology,,,Master's
+Male,50.0,105800.0,History,29108.8,,Master's
+Male,50.0,74400.0,Psychology,16955.3,,Master's
+Male,50.0,52100.0,Art,36696.73,,PhD
+Male,50.0,48900.0,Nursing,33665.98,,PhD
+Male,50.0,72200.0,Nursing,20601.2,,Bachelor's
+Male,50.0,61600.0,Art,,,Bachelor's
+Male,50.0,75700.0,History,,,Master's
+Male,25.0,72100.0,Engineering,29373.21,28/5/2022,Associate's
+Female,30.0,63900.0,Psychology,39551.42,22/5/2018,Associate's
